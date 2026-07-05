@@ -26,5 +26,9 @@
 
 // let doc = document.querySelector("heading")
 
-let doc = document.querySelectorAll("heading")
+// let doc = document.querySelectorAll("heading")
+
+let doc = document.getElementsByTagName("button");
+
+console.log(btn.innerText);
 
