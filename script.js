@@ -1,21 +1,28 @@
-let heading = document.getElementById("heading")
+// let heading = document.getElementById("heading")
 
 
 
 
-let text = document.getElementsByClassName("text")
+// let text = document.getElementsByClassName("text")
 
-text[0].textContent = "Always Op"
-text[1].textContent = "Chacha"
+// text[0].textContent = "Always Op"
+// text[1].textContent = "Chacha"
 
-let btn = document.getElementsByTagName("btn")
-
-
+// let btn = document.getElementsByTagName("btn")
 
 
-btn.onclick = function(){
 
-    heading.textContent = "Hello Kake"
 
-}
+// btn.onclick = function(){
+
+//     heading.textContent = "Hello Kake"
+
+// }
+
+
+
+// DOM TOPIC
+
+
+let doc = document.querySelector("heading")
 
