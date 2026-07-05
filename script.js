@@ -24,5 +24,7 @@
 // DOM TOPIC
 
 
-let doc = document.querySelector("heading")
+// let doc = document.querySelector("heading")
+
+let doc = document.querySelectorAll("heading")
 
